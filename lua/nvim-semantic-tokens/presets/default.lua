@@ -15,6 +15,7 @@ semantic_tokens.token_map = {
   event = "LspEvent",
   ["function"] = "LspFunction",
   method = "LspMethod",
+  member = "LspMember",
   macro = "LspMacro",
   keyword = "LspKeyword",
   modifier = "LspModifier",
